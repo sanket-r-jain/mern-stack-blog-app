@@ -1,4 +1,5 @@
-MERN Blogging Application
+# MERN Blogging Application
+A complete blog platform with server-client authentication developed using MERN stack.
 
 Technologies Used:
 
