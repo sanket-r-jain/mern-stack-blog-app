@@ -1,4 +1,4 @@
-# MERN Blogging Application
+# Blogging App Using MERN Stack - MongoDB | Express | React | Node.js
 A complete blog platform with server-client authentication developed using MERN stack.
 
 Technologies Used:
